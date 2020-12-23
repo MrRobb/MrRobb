@@ -23,7 +23,7 @@
 
 ### 💻 Open source work stats
 
-[![Rob's github stats](https://github-readme-stats.vercel.app/api?username=mrrobb&theme=radical&show_icons=true)](https://github.com/mrrobb)
+[![Rob's github stats](https://github-readme-stats.vercel.app/api?username=mrrobb&theme=tokyonight&show_icons=true)](https://github.com/mrrobb)
 
 <!--
 **MrRobb/MrRobb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

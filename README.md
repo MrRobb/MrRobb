@@ -16,8 +16,8 @@
 
 ### About me
 
-- 🔭 I’m currently working at the [Centre for Genomic Regulation](https://github.com/EGA-archive)
-- 🌱 Learning [AWS](https://aws.amazon.com/es/), [Lightning network protocol](https://lightning.network/) and [RL for imperfect-information games](https://arxiv.org/abs/2007.13544).
+- 🔭 I’m currently working at [Amazon](https://www.aboutamazon.com/)
+- 🌱 Learning [AWS](https://aws.amazon.com/es/) (a never-ending task) and how to make our life easier with robots and LLMs.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/robertoariosa/) or [rob.ariosa@hotmail.com](mailto:rob.ariosa@hotmail.com).
 - 😄 Pronouns: he / him
 
